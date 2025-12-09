@@ -4,7 +4,7 @@ There are 2 projects:
 
 ### Responsive Web pages ✨
 "Responsive Project" has a Home page.
-Based on the Non-responsive web page
+Based on the Non-responsive web page, with some alterations for improvement
 
 ### Non-responsive Web pages ✨
 "Non-responsive Project" is a has a Home, About Us and Contact Us page. 
