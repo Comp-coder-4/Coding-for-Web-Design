@@ -1,5 +1,11 @@
 
-For an imaginary company "Coding for Web design" that provides tutorials for HTML and CSS.
+I created web pages for an imaginary company "Coding for Web design" that provides tutorials for HTML and CSS.
+There are 2 projects: 
 
-Non-responsive Website (older project) ✨
-"Non-responsive Coding for Web design" is a has a Home, About Us and Contact Us page. You will find the high-fidelity wireframe (which I made using Figma) in the file "Non-resposive Coding for Web design wireframe"
+## Responsive Web pages ✨
+"Responsive Project" has a Home page.
+Based on the Non-responsive web page
+
+## Non-responsive Web pages ✨
+"Non-responsive Project" is a has a Home, About Us and Contact Us page. 
+You will find the high-fidelity wireframe (made using Figma) in the file "Non-resposive Coding for Web design wireframe"
